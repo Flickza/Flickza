@@ -16,6 +16,4 @@
   <img height="150em" src="https://github-readme-stats-flickza.vercel.app/api/top-langs/?username=Flickza&layout=compact&langs_count=16&theme=dark" />
 </div>
 
-<div>
-  ![](https://komarev.com/ghpvc/?username=Flickza&color=green)
-</div>
+![](https://komarev.com/ghpvc/?username=Flickza&color=green)
